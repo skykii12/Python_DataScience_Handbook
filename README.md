@@ -1,2 +1,2 @@
 # Python_DataScience_Handbook
-Notebooks covering all aspects of Data Scinc.
+Respository contains various tutortial notebooks, projects and other miscellaneous things related to Data Science.
