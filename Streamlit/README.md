@@ -8,3 +8,12 @@ This dashboard provides options to:
 - endpoint to predict using each of the models
 
 You can navigate through the different pages on the left side bar.
+
+To run this locally, you pull this repo, and download the dataset separately here:
+https://archive.ics.uci.edu/ml/datasets/wine+quality
+
+Then navigate to the folder containing streamlit_tutorial.py and run:
+
+```
+streamlit run streamlit_tutorial.py
+```
