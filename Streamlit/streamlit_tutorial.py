@@ -101,7 +101,7 @@ def run_model_performance():
     nn_model = pickle.load(open("nn_model.pkl", "rb"))
     lr_model = pickle.load(open("lr_model.pkl", "rb"))
 
-    st.title("Model Perfomance")
+    st.title("Model Performance")
     st.markdown("We can view the performance of different models for predicting wine quality.")
 
     # Model metrics
