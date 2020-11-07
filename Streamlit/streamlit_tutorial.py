@@ -6,7 +6,6 @@ import seaborn as sns
 import pickle
 import os
 import missingno as msno
-import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, explained_variance_score, max_error, mean_absolute_error, mean_squared_log_error
 from sklearn.metrics import median_absolute_error, r2_score, mean_poisson_deviance, mean_gamma_deviance
